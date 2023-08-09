@@ -1,7 +1,6 @@
 **Contato**
 
-Discord: boynull
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
+<a href="https://discord.com/users/610857466292338718/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 
 
 **Atualmente focado em:**
