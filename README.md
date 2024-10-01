@@ -3,10 +3,6 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beoipisilon&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-**Contato**
-
-<a href="https://discord.com/users/610857466292338718/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
-
 <!--
 **beoipisilon/beoipisilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
