@@ -21,7 +21,6 @@
   <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
   <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
-  <a href="https://laravel.com" target="_blank"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> </a>
   <a href="https://www.mysql.com" target="_blank"> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
   <a href="https://www.mongodb.com" target="_blank"> <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
