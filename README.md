@@ -5,13 +5,15 @@
 <b>🌱 My Dev Statistics</b>
 
 <p> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beoipisilon&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beoipisilon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="180em" src="https://github-readme-stats-git-masterorgs-mark996.vercel.app/api?username=beoipisilon&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-masterorgs-mark996.vercel.app/api/top-langs/?username=beoipisilon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://nextjs.org" target="_blank"> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a>
   <a href="https://nestjs.com" target="_blank"> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/> </a>
   <a href="https://www.javascript.com" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> </a>
