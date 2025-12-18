@@ -5,8 +5,8 @@
 <b>🌱 My Dev Statistics</b>
 
 <p> 
-<img height="180em" src="https://github-readme-stats-git-masterorgs-mark996.vercel.app/api?username=beoipisilon&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-git-masterorgs-mark996.vercel.app/api/top-langs/?username=beoipisilon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beoipisilon&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beoipisilon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
 ---
