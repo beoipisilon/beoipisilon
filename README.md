@@ -3,9 +3,8 @@
 I am `Full Stack Developer` with 3+ years of experience.
 Strong experience with `React`, `Vue.js`, `Node.js`, `NestJS`, and `TypeScript`
 
-| ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beoipisilon&mode-daily&theme=aura&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beoipisilon&hide=Html&theme=aura) | 
-| :-: | :-: 
-
+| ![Profile](https://github-readme-stats-one-bice.vercel.app/api?username=beoipisilon&show_icons=true&theme=aura&hide_border=true) | ![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=beoipisilon&layout=compact&theme=aura&hide_border=true) |
+| :-: | :-:
 
   <a href="mailto:boydesignsfivem@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
